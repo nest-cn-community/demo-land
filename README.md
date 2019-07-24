@@ -11,8 +11,9 @@ nestjs 相关 demo 项目汇总
 
 ## cms & blog 项目
 
-- [zheng-chuang/blog-nest](https://github.com/zheng-chuang/blog-nest)，预览：<http://zhengchuang.mobi>
+- [zheng-chuang/blog-nest](https://github.com/zheng-chuang/blog-nest) 预览: <http://zhengchuang.mobi>
 - [ZhiXiao-Lin/nestify](https://github.com/ZhiXiao-Lin/nestify) 基于 Nestjs、Nextjs、Fastify、TypeORM、ElasticSearch、AntDesign 的内容管理框架
+- [xylmoon/nest-dmb](https://github.com/xylmoon/nest-dmb) 预览: <https://www.dongmanbu.cn/>
 
 ## 后台管理系统项目
 
