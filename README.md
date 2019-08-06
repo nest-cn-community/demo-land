@@ -18,3 +18,4 @@ nestjs 相关 demo 项目汇总
 ## 后台管理系统项目
 
 - [RBAC后台权限管理系统](https://github.com/NG-NEST/ng-nest-moon)
+- [IricBing/HSHToken](https://github.com/IricBing/HSHToken) 使用redis存储token信息，并支持token自动续期
