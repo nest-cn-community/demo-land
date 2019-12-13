@@ -19,3 +19,7 @@ nestjs 相关 demo 项目汇总
 
 - [RBAC后台权限管理系统](https://github.com/NG-NEST/ng-nest-moon)
 - [IricBing/HSHToken](https://github.com/IricBing/HSHToken) 使用redis存储token信息，并支持token自动续期
+
+## RabbitMQ
+
+- [liwangyong/NestBase-master](https://github.com/liwangyong/NestBase-master) 后端日志管理平台 技术栈 @typeorm nestjs RabbitMQ
